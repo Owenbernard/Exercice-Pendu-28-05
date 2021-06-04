@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622709176 source:c:\users\obern\onedrive\bureau\ludus-academie\cours\algorithmie\3trimestre\c\exo pendu\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
